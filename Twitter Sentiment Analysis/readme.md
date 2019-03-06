@@ -1,0 +1,3 @@
+# Twitter Sentiment Analysis
+We trained the model based on 1.6M tweets from [here](https://www.kaggle.com/kazanova/sentiment140) using SnapLogic Data Science. The model is deployed as REST API which you can try in the app. Simply open "twitter_sentiment_analysis.html" using your web browser, no web server is required.
+If you have a SnapLogic account, you can import "Twitter Sentiment Analysis.zip" and host the API in your own environment. Once the API is ready, you can change the "Ultra URL" and "Token" accordingly.
